@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="afc16936-a873-4cb0-baff-23a13d38fb14" name="Changes" comment="Mudança 3" />
+    <list default="true" id="afc16936-a873-4cb0-baff-23a13d38fb14" name="Changes" comment="Mudança 4" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -168,7 +168,7 @@
       <workItem from="1738095359677" duration="1818000" />
       <workItem from="1738150969445" duration="1716000" />
       <workItem from="1738152843752" duration="1910000" />
-      <workItem from="1738158745618" duration="1389000" />
+      <workItem from="1738158745618" duration="1691000" />
     </task>
     <task id="LOCAL-00001" summary="fim">
       <option name="closed" value="true" />
@@ -194,7 +194,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738159855780</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Mudança 4">
+      <option name="closed" value="true" />
+      <created>1738160431012</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738160431012</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,7 +228,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fim" />
     <MESSAGE value="Mudança 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mudança 3" />
+    <MESSAGE value="Mudança 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mudança 4" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProjectTelegramGame$JOGO_TELEGRAM.coverage" NAME="JOGO TELEGRAM Coverage Results" MODIFIED="1738094589845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
