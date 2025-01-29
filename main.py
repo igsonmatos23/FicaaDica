@@ -1,6 +1,9 @@
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, InputMediaPhoto
 from telegram.ext import Application, CommandHandler, CallbackQueryHandler, MessageHandler, filters, ContextTypes
-import random
+import
+import os
+
+print("Bot está rodando no Railway...")  # Isto ajudará a saber se o código está sendo executado.
 
 # Definir o deck de cartas (links para imagens no Google Drive)
 deck_de_cartas = [
